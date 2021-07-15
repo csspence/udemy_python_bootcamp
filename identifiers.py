@@ -7,3 +7,5 @@ Sport = 'Tennis'
 
 #get output
 print(sport, ' and ', Sport)
+
+print(type(10))
