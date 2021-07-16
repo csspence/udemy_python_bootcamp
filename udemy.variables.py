@@ -7,5 +7,5 @@
 name, num, age = "Ronaldo", 7, 34
 
 # get the output
-print(name, num, age)
+#print(name, num, age)
 print("The player name is " + name + " his age is " + str(age) + " and his number is " + str(num))
